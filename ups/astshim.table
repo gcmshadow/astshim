@@ -1,4 +1,5 @@
 setupRequired(sconsUtils)
+setupRequired(python)
 
 # The following is boilerplate for all packages.
 # See Tech Note DMTN-001 for details on LSST_LIBRARY_PATH
